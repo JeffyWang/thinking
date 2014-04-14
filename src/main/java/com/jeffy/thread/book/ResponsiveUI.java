@@ -31,6 +31,5 @@ public class ResponsiveUI extends Thread {
         new ResponsiveUI();
         System.in.read();
         System.out.println(d);
-
     }
 }
