@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+    <person name="jeffy" ref="com.jeffy.reflect.loadbean.Jeffy"/>
+    <person name="tom" ref="com.jeffy.reflect.loadbean.Amy"/>
+</persons>
